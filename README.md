@@ -10,7 +10,7 @@
 👋 A Python Fullstack Trainee passionate about web development.</br>
 🔧 Skills: Python, Flask, HTML, CSS, MySQL.</br>
 🌱 Currently learning advanced full-stack technologies</br>
-🤝 Looking to collaborate on full-stack projects</br>
+
 </p>
 
 
