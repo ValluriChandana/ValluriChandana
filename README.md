@@ -21,9 +21,5 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_chandana_nani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chandana_nani_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vallurichandana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vallurichandana" height="30" width="40" /></a>
-</p>
+
 
