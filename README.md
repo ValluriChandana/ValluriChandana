@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chandana</h1>
 <p>
-  Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like Python, HTML, CSS, JavaScript, MySQL.
+  Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like Python, HTML, CSS, Flask, MySQL.
 </p>
 
 
@@ -8,7 +8,7 @@
 <h3 align="left">About Me</h3>
 <p>
 👋 A Python Fullstack Trainee passionate about web development.</br>
-🔧 Skills: Python, Flask, HTML, CSS, MySQL.</br>
+🔧 Skills: Python, HTML, CSS, Flask, MySQL.</br>
 🌱 Currently learning advanced full-stack technologies</br>
 
 </p>
