@@ -8,7 +8,7 @@
 <h3 align="left">About Me</h3>
 <p>
 👋 A Python Fullstack Trainee passionate about web development.</br>
-🔧 Skills: Python, HTML, CSS, Flask, MySQL.</br>
+🔧 Skills: Python, HTML, CSS, MySQL.</br>
 🌱 Currently learning advanced full-stack technologies</br>
 
 </p>
